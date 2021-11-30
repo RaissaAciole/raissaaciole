@@ -16,7 +16,7 @@
   <img align="center" alt="Raissa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Raissa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   
-    ![Snake animation](https://github.com/rafaballerini/raissaaciole/blob/output/github-contribution-grid-snake.svg)
+    ![Snake animation](https://github.com/raissaaciole/raissaaciole/blob/output/github-contribution-grid-snake.svg)
   
   </div>
   
