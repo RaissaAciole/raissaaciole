@@ -1,6 +1,6 @@
 ### Olá! Eu sou a Raissa Aciole!
 
--🖥 Eu ainda não trabalho na área da programação.<br>
+-🖥 Eu ainda não trabalho com programação.<br>
 -📖 Estou aprendendo JavaScript<br>
 -🍄 Pronomes: Ela/Dela<br>
 -🍒 Idade: 15 anos<br>
