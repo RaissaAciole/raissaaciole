@@ -18,8 +18,6 @@
   <img align="center" alt="Gurt-html" height="30" width="30" src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_html_icon_130541.png">
   <!--CSS-->
   <img align="center" alt="Gurt-css" height="30" width="30" src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_css_icon_130661.png">
-  <!--NodeJS-->
-  <img align="center" alt="Raissa-node" height="30" width="30" src="https://cdn.icon-icons.com/icons2/2415/PNG/512/nodejs_plain_logo_icon_146409.png">
   <!--VS Code-->
   <img align="center" alt="Raissa-vscode" height="30" width="30" src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_vscode_icon_130084.png">
   <!--Git Hub-->
