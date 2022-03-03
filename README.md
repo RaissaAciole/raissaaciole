@@ -3,7 +3,7 @@
 -🖥 Eu ainda não trabalho com programação.<br>
 -📖 Estou aprendendo HTML, CSS e JavaScript<br>
 -🍄 Pronomes: Ela/Dela<br>
--🍒 Idade: 15 anos<br>
+-🍒 Idade: 16 anos<br>
 
 <div align="center">
   <a href="https://github.com/raissaaciole">
